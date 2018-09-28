@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Between Memorizing and Understanding
+feature-img: "assets/img/pexels/desk-coffe.jpeg"
+thumbnail: "assets/img/thumbnails/desk-coffe.jpeg"
 tags: [memorize, understand]
 excerpt_separator: <!--more-->
 ---
