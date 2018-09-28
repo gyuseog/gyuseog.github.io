@@ -2,7 +2,7 @@
 layout: post
 title: Between Memorizing and Understanding
 feature-img: "assets/img/pexels/book-coffee.jpeg"
-thumbnail: "assets/img/thumbnails/book-coffee.jpeg"
+thumbnail: "assets/img/pexels/book-coffee.jpeg"
 tags: [memorize, understand]
 excerpt_separator: <!--more-->
 ---
